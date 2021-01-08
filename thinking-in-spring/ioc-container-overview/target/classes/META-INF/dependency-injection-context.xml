@@ -22,5 +22,4 @@
     <bean id="userRepository" class="org.itutopia.thinking.in.spring.ioc.overview.repository.UserRepository" autowire="byType"/>
 
 
-
 </beans>
